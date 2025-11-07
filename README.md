@@ -63,9 +63,9 @@ Si el archivo CSV no existe, el sistema lo crea automáticamente.
 7. Ejecutar el programa:
      python tpi.py
    
- # ✅ Ejemplos de entradas y salidas
+ #  Ejemplos de entradas y salidas
 
-### 🔎 Ejemplo 1 – Búsqueda por nombre
+###  Ejemplo 1 – Búsqueda por nombre
 
 **Entrada:**
 
