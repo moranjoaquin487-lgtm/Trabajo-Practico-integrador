@@ -158,7 +158,7 @@ captura_estadisticas.png
 
 ##  Participación de los integrantes
 
-**Alumno:** *Joaquin Moran*
+**Alumnos:** *Joaquin Moran y Paul Paiva*
 
 - Desarrollo completo del código  
 - Diseño del menú y funciones  
